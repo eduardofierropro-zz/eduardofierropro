@@ -21,10 +21,10 @@
 #### 📹 Favorite videos on [my Youtube Channel](https://youtube.com/eduardofierropro):
 
 <a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Piet Mondrian y el desarrollo web" target='_blank'>
-  <img width='30%'  src='https://eduardofierro.pro/assets/thumb/pietman.webp' alt='Piet Mondrian y el desarrollo web' />
+  <img width='30%'  src='https://eduardofierro.pro/assets/thumb/pietman.jpg' alt='Piet Mondrian y el desarrollo web' />
 </a>
 <a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos" target='_blank'>
-  <img width='30%' src='https://eduardofierro.pro/assets/thumb/edugolas.webp' alt='GIT y El Señor de los anillos' />
+  <img width='30%' src='https://eduardofierro.pro/assets/thumb/edugolas.jpg' alt='GIT y El Señor de los anillos' />
 </a>
 <a href='https://www.youtube.com/watch?v=PW2EYxeIxEk' title="Setup de Desarrollo Web 2020" target='_blank'>
   <img width='30%' src='https://eduardofierro.pro/assets/thumb/setup.jpg' alt='Setup de Desarrollo Web 2020' />
