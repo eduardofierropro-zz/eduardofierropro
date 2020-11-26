@@ -1,4 +1,4 @@
-![¡Qué pasa crucks! Bievenido a mi perfil de Github. Este perfil está creado para subir los contenidos que suelo hacer en mis streaming y vídeos de Youtube](https://eduardofierro.pro/old/github-cover.jpg)
+![¡Qué pasa crucks! Bievenido a mi perfil de Github. Este perfil está creado para subir los contenidos que suelo hacer en mis streaming y vídeos de Youtube](https://eduardofierro.pro/assets/thumb/github-cover.jpg)
 
 <p align="center">
    <a href="https://youtube.com/eduardofierropro" target="blank" style="{margin: 0 20px;} :hover {background: yellow}">
@@ -21,13 +21,13 @@
 #### 📹 Favorite videos on [my Youtube Channel](https://youtube.com/eduardofierropro):
 
 <a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Piet Mondrian y el desarrollo web" target='_blank'>
-  <img width='30%'  src='https://eduardofierro.pro/old/yt1.jpg' alt='Piet Mondrian y el desarrollo web' />
+  <img width='30%'  src='https://eduardofierro.pro/assets/thumb/pietman.webp' alt='Piet Mondrian y el desarrollo web' />
 </a>
 <a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos" target='_blank'>
-  <img width='30%' src='https://eduardofierro.pro/old/yt2.jpg' alt='GIT y El Señor de los anillos' />
+  <img width='30%' src='https://eduardofierro.pro/assets/thumb/edugolas.webp' alt='GIT y El Señor de los anillos' />
 </a>
 <a href='https://www.youtube.com/watch?v=PW2EYxeIxEk' title="Setup de Desarrollo Web 2020" target='_blank'>
-  <img width='30%' src='https://eduardofierro.pro/old/yt3.jpg' alt='Setup de Desarrollo Web 2020' />
+  <img width='30%' src='https://eduardofierro.pro/assets/thumb/setup.jpg' alt='Setup de Desarrollo Web 2020' />
 </a>
 
 
