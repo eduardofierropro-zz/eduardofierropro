@@ -1,6 +1,6 @@
 [![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
-## 😀About me
+## 👉About me
 I'm a **Fullstack Web Developer** and **Teacher in a Fullstack Master's degree** centered on a massive web performance with micro-animations.
 **I love made ad-hoc website and apps** and also I love making my own proyects with diferents technologies.
 And at the same time I record and publish vídeos on [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
