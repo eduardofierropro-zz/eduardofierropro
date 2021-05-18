@@ -40,3 +40,5 @@ And at the same time I record and publish vídeos on [Youtube](https://youtube.c
 - [Qué demandan las empresas](https://eduardofierro.pro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
 - [Autolikes en Instagram con Javascript](https://eduardofierro.pro/blog/autolikes-en-instagram-con-javascript/)
 - [Que se trabaja en programación web. Nivel Junior](https://eduardofierro.pro/blog/que-se-trabaja-en-programacion-web/)
+
+[![Eduardo Fierro Pro GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofierropro)](https://github.com/eduardofierropro/github-readme-stats)
