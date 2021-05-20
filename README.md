@@ -43,4 +43,16 @@ And at the same time I record and publish vídeos on [Youtube](https://youtube.c
 - [Autolikes en Instagram con Javascript](https://eduardofierro.pro/blog/autolikes-en-instagram-con-javascript/)
 - [Que se trabaja en programación web. Nivel Junior](https://eduardofierro.pro/blog/que-se-trabaja-en-programacion-web/)
 
+
+<!--
 [![Eduardo Fierro Pro GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofierropro)](https://github.com/eduardofierropro/github-readme-stats)
+
+
+- ![Youtube](
+https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
+
+
+
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+-->
