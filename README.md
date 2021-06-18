@@ -1,58 +1,53 @@
+
+
 [![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 <p align="center">
-   <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="{margin: 0 20px;} :hover {background: yellow}">
-    <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Eduardo Fierro Pro" height="28px" width="28px" />
-  </a>
-   <a href="https://twitch.tv/eduardofierropro" target="blank" style="{margin: 0 20px;} :hover {background: yellow}">
-    <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/eduardofierropro" target="blank" style="{margin: 0 20px;} :hover {background: yellow}">
-    <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Eduardo Fierro Pro" height="28px" width="28px" />
-  </a>
-  <a href="https://fb.com/eduardofierropro" target="blank" style="{margin: 0 20px;} :hover {background: yellow}">
-    <img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Facebook - Eduardo Fierro Pro" height="28px" width="28px" />
-  </a>
-  <a href="https://instagram.com/eduardofierro.pro" target="blank" style="{margin: 0 20px;} :hover {background: yellow}">
-    <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Eduardo Fierro Pro" height="28px" width="28px" />
-  </a>
+    <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="{margin: 0 20px}">
+      <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://twitch.tv/eduardofierropro" target="blank" style="{margin: 0 20px}">
+      <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://twitter.com/eduardofierropro" target="blank" style="{margin: 0 20px}">
+      <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="Facebook - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="https://instagram.com/eduardofierro.pro" target="blank" style="{margin: 0 20px} ">
+      <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
+    <a href="http://tiktok.com/@eduardofierro.pro" target="blank" style="{margin: 0 20px}">
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Eduardo Fierro Pro" height="28px" width="28px" />
+    </a>
 </p>
-<br>
-
-## 👉About me
-I'm a **Fullstack Web Developer** and **Teacher in a Fullstack Master's degree** centered on a massive web performance with micro-animations.
-**I love made ad-hoc website and apps** and also I love making my own proyects with diferents technologies.
-And at the same time I record and publish vídeos on [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 
+## 👉 Sobre mí
+Soy un **Desarrollador Fullstack** y **Profesor en la escuela [Trazos](https://trazos.net/contacto-eduardofierro)** centrado en microanimaciones tanto para páginas web como aplicaciones.
+Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1)**, **directos en [Twitch](https://twitch.tv/eduardofierropro)** y **trucos rápidos en [TikTok](http://tiktok.com/@eduardofierro.pro)**
 
-## 📹 Favorite videos on [my Youtube Channel](https://youtube.com/EduardoFierroPro?sub_confirmation=1):
-<a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Piet Mondrian y el desarrollo web" target='_blank'>
-  <img width='30%'  src='https://eduardofierro.pro/assets/thumb/pietman.jpg' alt='Piet Mondrian y el desarrollo web' />
+
+## 📹 Vídeos favoritos de mi [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
+<a href='https://www.youtube.com/watch?v=j6RZqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
+  <img width='33%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
 </a>
-<a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos" target='_blank'>
-  <img width='30%' src='https://eduardofierro.pro/assets/thumb/edugolas.jpg' alt='GIT y El Señor de los anillos' />
+<a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Piet Mondrian y el desarrollo web - ver en Youtube" target='_blank'>
+  <img width='33%'  src='https://i3.ytimg.com/vi/1hDGvWJXzqM/maxresdefault.jpg' alt='Piet Mondrian y el desarrollo web' />
 </a>
-<a href='https://www.youtube.com/watch?v=PW2EYxeIxEk' title="Setup de Desarrollo Web 2020" target='_blank'>
-  <img width='30%' src='https://eduardofierro.pro/assets/thumb/setup.jpg' alt='Setup de Desarrollo Web 2020' />
+<a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos - ver en Youtube" target='_blank'>
+  <img width='33%' src='https://i3.ytimg.com/vi/GC_V4NeWbOs/maxresdefault.jpg' alt='GIT y El Señor de los anillos' />
+</a>
+<a href='https://www.youtube.com/watch?v=PW2EYxeIxEk' title="Setup de Desarrollo Web 2020 - ver en Youtube" target='_blank'>
+  <img width='33%' src='https://eduardofierro.pro/assets/thumb/setup.jpg' alt='Setup de Desarrollo Web 2020' />
+</a>
+<a href='https://www.youtube.com/watch?v=WCUASu4V258' title="Clonando la web de Netflix - ver en Youtube" target='_blank'>
+  <img width='33%' src='https://i3.ytimg.com/vi/WCUASu4V258/maxresdefault.jpg' alt='Clonando la web de Netflix' />
+</a>
+<a href='https://www.youtube.com/watch?v=P51PMs0sKys&t=3926s' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
+  <img width='33%' src='https://i3.ytimg.com/vi/P51PMs0sKys/maxresdefault.jpg' alt='Charlas de programación con Código Vikingo' />
 </a>
 
 
-#### 📝 Latest articles I wrote on [eduardofierro.pro/blog](https://eduardofierro.pro/blog/):
+#### 📝 Artículos de mi web [eduardofierro.pro/blog](https://eduardofierro.pro/blog/):
 - [Qué demandan las empresas](https://eduardofierro.pro/blog/https://eduardofierro.pro/blog/que-demandan-las-empresas/)
 - [Autolikes en Instagram con Javascript](https://eduardofierro.pro/blog/autolikes-en-instagram-con-javascript/)
 - [Que se trabaja en programación web. Nivel Junior](https://eduardofierro.pro/blog/que-se-trabaja-en-programacion-web/)
-
-
-<!--
-[![Eduardo Fierro Pro GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofierropro)](https://github.com/eduardofierropro/github-readme-stats)
-
-
-- ![Youtube](
-https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
-
-
-
-
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
--->
