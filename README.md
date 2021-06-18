@@ -1,21 +1,20 @@
 
-
 [![Header](https://eduardofierro.pro/assets/thumb/github-cover.jpg "Header")](https://youtube.com/EduardoFierroPro?sub_confirmation=1)
 
 <p align="center">
-    <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="{margin: 0 20px}">
+    <a href="https://youtube.com/EduardoFierroPro?sub_confirmation=1" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/youtube.svg" alt="Youtube - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
-    <a href="https://twitch.tv/eduardofierropro" target="blank" style="{margin: 0 20px}">
+    <a href="https://twitch.tv/eduardofierropro" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="Twitch - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
-    <a href="https://twitter.com/eduardofierropro" target="blank" style="{margin: 0 20px}">
+    <a href="https://twitter.com/eduardofierropro" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/tiktok.svg" alt="Facebook - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
-    <a href="https://instagram.com/eduardofierro.pro" target="blank" style="{margin: 0 20px} ">
+    <a href="https://instagram.com/eduardofierro.pro" target=""blank" style="margin: 0 20px; >
       <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
-    <a href="http://tiktok.com/@eduardofierro.pro" target="blank" style="{margin: 0 20px}">
+    <a href="http://tiktok.com/@eduardofierro.pro" target="blank" style="margin: 0 20px;">
       <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Eduardo Fierro Pro" height="28px" width="28px" />
     </a>
 </p>
@@ -28,22 +27,22 @@ Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/Eduar
 
 ## 📹 Vídeos favoritos de mi [Youtube](https://youtube.com/EduardoFierroPro?sub_confirmation=1) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC3iVwWjDFlcMW4NPVfS3-NA)
 <a href='https://www.youtube.com/watch?v=j6RZqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
-  <img width='33%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
+  <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
 </a>
 <a href='https://www.youtube.com/watch?v=1hDGvWJXzqM' title="Piet Mondrian y el desarrollo web - ver en Youtube" target='_blank'>
-  <img width='33%'  src='https://i3.ytimg.com/vi/1hDGvWJXzqM/maxresdefault.jpg' alt='Piet Mondrian y el desarrollo web' />
+  <img width='32%'  src='https://i3.ytimg.com/vi/1hDGvWJXzqM/maxresdefault.jpg' alt='Piet Mondrian y el desarrollo web' />
 </a>
 <a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos - ver en Youtube" target='_blank'>
-  <img width='33%' src='https://i3.ytimg.com/vi/GC_V4NeWbOs/maxresdefault.jpg' alt='GIT y El Señor de los anillos' />
+  <img width='32%' src='https://i3.ytimg.com/vi/GC_V4NeWbOs/maxresdefault.jpg' alt='GIT y El Señor de los anillos' />
 </a>
 <a href='https://www.youtube.com/watch?v=PW2EYxeIxEk' title="Setup de Desarrollo Web 2020 - ver en Youtube" target='_blank'>
-  <img width='33%' src='https://eduardofierro.pro/assets/thumb/setup.jpg' alt='Setup de Desarrollo Web 2020' />
+  <img width='32%' src='https://eduardofierro.pro/assets/thumb/setup.jpg' alt='Setup de Desarrollo Web 2020' />
 </a>
 <a href='https://www.youtube.com/watch?v=WCUASu4V258' title="Clonando la web de Netflix - ver en Youtube" target='_blank'>
-  <img width='33%' src='https://i3.ytimg.com/vi/WCUASu4V258/maxresdefault.jpg' alt='Clonando la web de Netflix' />
+  <img width='32%' src='https://i3.ytimg.com/vi/WCUASu4V258/maxresdefault.jpg' alt='Clonando la web de Netflix' />
 </a>
 <a href='https://www.youtube.com/watch?v=P51PMs0sKys&t=3926s' title="Charlas de programación con Código Vikingo - ver en Youtube" target='_blank'>
-  <img width='33%' src='https://i3.ytimg.com/vi/P51PMs0sKys/maxresdefault.jpg' alt='Charlas de programación con Código Vikingo' />
+  <img width='32%' src='https://i3.ytimg.com/vi/P51PMs0sKys/maxresdefault.jpg' alt='Charlas de programación con Código Vikingo' />
 </a>
 
 
