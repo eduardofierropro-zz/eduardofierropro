@@ -33,10 +33,10 @@ Al mismo tiempo **grabo y publico vídeos en [Youtube](https://youtube.com/Eduar
   <img width='32%'  src='https://i3.ytimg.com/vi/1hDGvWJXzqM/maxresdefault.jpg' alt='Piet Mondrian y el desarrollo web' />
 </a>
 <a href='https://www.youtube.com/watch?v=GC_V4NeWbOs' title="GIT y El Señor de los anillos - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://eduardofierro.pro/assets/img/home/edugolas.webp' alt='GIT y El Señor de los anillos' />
+  <img width='32%' src='https://img.youtube.com/vi/GC_V4NeWbOs/maxresdefault.jpg' alt='GIT y El Señor de los anillos' />
 </a>
 <a href='https://www.youtube.com/watch?v=-chk3tKvNLI' title="Setup de Desarrollo Web 2021 - ver en Youtube" target='_blank'>
-  <img width='32%' src='https://eduardofierro.pro/assets/img/home/setupyt.webp' alt='Setup de Desarrollo Web 2021' />
+  <img width='32%' src='https://img.youtube.com/vi/-chk3tKvNLI/maxresdefault.jpg' alt='Setup de Desarrollo Web 2021' />
 </a>
 <a href='https://www.youtube.com/watch?v=WCUASu4V258' title="Clonando la web de Netflix - ver en Youtube" target='_blank'>
   <img width='32%' src='https://i3.ytimg.com/vi/WCUASu4V258/maxresdefault.jpg' alt='Clonando la web de Netflix' />
